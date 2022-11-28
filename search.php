@@ -67,7 +67,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-3 col-xs-2">
-					<div id="fh5co-logo"><a href="index.php">Ryn.</a></div>
+					<div id="fh5co-logo"><a href="index.php">Cong Minh CT</a></div>
 				</div>
 				<div class="col-md-6 col-xs-6 text-center menu-1">
 					<ul>
@@ -180,8 +180,8 @@
 		<div class="container" >
 			<div class="row row-pb-md">
 				<div class="col-md-4 fh5co-widget">
-					<h3>Ryn.</h3>
-					<p>See you.</p>
+					<h3>Cong Minh CT</h3>
+					<p>See you again</p>
 				</div>
 				<!-- <div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1">
 					<ul class="fh5co-footer-links">
