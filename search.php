@@ -129,7 +129,7 @@
 					<div class="product">
 						<!-- list product -->
     <?php
-  $conn = mysqli_connect('localhost','root','','website');
+  $conn = mysqli_connect('3.128.54.48','batpromax_user','123@123a','batpromax_db');
     if(!$conn)
     {
       echo "Kết nối thất bại";
